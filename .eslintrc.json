@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "plugin:@typescript-eslint/recommended",
+    "plugin:react/recommended",
+    "eslint-config-prettier"
+  ],
+  "rules": {
+    "react/react-in-jsx-scope": 0
+  }
+}

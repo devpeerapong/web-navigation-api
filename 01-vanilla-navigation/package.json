@@ -1,0 +1,15 @@
+{
+  "name": "vanilla-navigation",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "parcel 'src/*.html'"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "parcel": "^2.7.0",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.2"
+  }
+}
